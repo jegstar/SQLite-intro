@@ -1,0 +1,31 @@
+rank,personName,age,finalWorth,source,country,birthDate,title
+1,Elon Musk,50,219000,Tesla- SpaceX,United States,6/28/1971,CEO
+2,Jeff Bezos,58,171000,Amazon,United States,01/12/1964,Entrepreneur
+3,Bernard Arnault & family,73,158000,LVMH,France,03/05/1949,Chairman and CEO
+4,Bill Gates,66,129000,Microsoft,United States,10/28/1955,Cofounder
+5,Warren Buffett,91,118000,Berkshire Hathaway,United States,8/30/1930,CEO
+6,Larry Page,49,111000,Google,United States,3/26/1973,Entrepreneur
+7,Sergey Brin,48,107000,Google,United States,8/21/1973,Cofounder and board member
+8,Larry Ellison,77,106000,software,United States,8/17/1944,CTO and Founder
+9,Steve Ballmer,66,91400,Microsoft,United States,3/24/1956,Owner
+10,Mukesh Ambani,64,90700,diversified,India,4/19/1957,Founder and Chairman
+11,Gautam Adani & family,59,90000,infrastructure- commodities,India,6/24/1962,
+12,Michael Bloomberg,80,82000,Bloomberg LP,United States,2/14/1942,CEO
+13,Carlos Slim Helu & family,82,81200,telecom,Mexico,1/28/1940,Honorary Chairman
+14,Francoise Bettencourt Meyers & family,68,74800,L'Oréal,France,07/10/1953,
+15,Mark Zuckerberg,37,67300,Facebook,United States,5/14/1984,Cofounder
+16,Jim Walton,73,66200,Walmart,United States,06/07/1948,Chairman and CEO
+17,Zhong Shanshan,67,65700,beverages- pharmaceuticals,China,12/01/1954,
+18,Alice Walton,72,65300,Walmart,United States,10/07/1949,Philanthropist
+19,Rob Walton,77,65000,Walmart,United States,10/27/1944,Director
+20,Changpeng Zhao,44,65000,cryptocurrency exchange,Singapore,09/10/1977,
+21,Charles Koch,86,60000,Koch Industries,United States,11/01/1935,CEO
+22,Julia Koch & family,59,60000,Koch Industries,United States,04/12/1962,
+23,Amancio Ortega,86,59600,Zara,Spain,3/28/1936,
+24,Michael Dell,57,55100,Dell computers,United States,2/23/1965,Chairman and CEO
+25Zhang Yiming,38,50000,TikTok,China,01/01/1984,Founder
+26,David Thomson & family,64,49200,media,Canada,06/12/1957,Chairman
+27,Phil Knight & family,84,47300,Nike,United States,2/24/1938,Chairman
+28,Dieter Schwarz,82,47100,retail,Germany,9/24/1939,
+29,Robin Zeng,53,44800,batteries,China,01/01/1969,
+30,MacKenzie Scott,51,43600,Amazon,United States,04/07/1970,Philanthropist

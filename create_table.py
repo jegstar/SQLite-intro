@@ -9,6 +9,5 @@ cur = conn.cursor()
 
 
 
-
 # We should close the connection that we had at the beginning to ensure data integrity.
 conn.close()
